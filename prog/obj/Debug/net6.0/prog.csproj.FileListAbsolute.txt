@@ -1,0 +1,15 @@
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/bin/Debug/net6.0/prog
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/bin/Debug/net6.0/prog.deps.json
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/bin/Debug/net6.0/prog.runtimeconfig.json
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/bin/Debug/net6.0/prog.dll
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/bin/Debug/net6.0/prog.pdb
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.csproj.AssemblyReference.cache
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.AssemblyInfoInputs.cache
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.AssemblyInfo.cs
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.csproj.CoreCompileInputs.cache
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.dll
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/refint/prog.dll
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.pdb
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/prog.genruntimeconfig.cache
+/Users/vladimirtatakanov/Desktop/ДЗ для Geekbrains/Program/prog/obj/Debug/net6.0/ref/prog.dll
