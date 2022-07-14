@@ -1,14 +1,15 @@
-﻿/*int num = 0;
-while(num>3)
+﻿Console.WriteLine("Введите число =");
+double chisl = Convert.ToDouble(Console.ReadLine());
+
+if(chisl == 0)
 {
-    Console.WriteLine("Введите число c = ");
-    //добавление значений в массив
-    num++;
+    Console.WriteLine("Не применимо");
 }
-
-int max = //ввести 1 элемент массива
-if()
+else if(chisl%2 == 0)
 {
-
-}*/
-
+    Console.WriteLine("Четное");
+}
+else
+{
+    Console.WriteLine("Не четное");
+}
